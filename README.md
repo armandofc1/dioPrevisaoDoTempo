@@ -20,7 +20,9 @@ Desafio feito no Bootcamp da Digital Innovation One.
 
 Consumir os recursos da **Open Weather Map API** em um *frontend* Angular.
 
-O objetivo desse desavio foi realizar a integração de uma *Single Page Application* (SPA) em Angular com a Open Weather Map API. Esse exercício também abordou uma forma mais avançada de gerenciamento de estado com o NgRx, além de práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis do Angular.
+O objetivo desse desavio foi realizar a integração de uma *Single Page Application* (SPA) em Angular com a Open Weather Map API. 
+
+Esse exercício também abordou uma forma mais avançada de gerenciamento de estado com o NgRx, além de práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis do Angular.
 
 ---
 
@@ -49,11 +51,11 @@ O objetivo desse desavio foi realizar a integração de uma *Single Page Applica
 ```
 ### 📚 Referências
 
--[openweather-api]:https://openweathermap.org/
+- https://openweathermap.org/
 
--[ngrx-ref]:https://ngrx.io/
+- https://ngrx.io/
 
--[angular-ref]:https://angular.io/docs
+- https://angular.io/docs
 
 ## ⌨️ Autor
 
